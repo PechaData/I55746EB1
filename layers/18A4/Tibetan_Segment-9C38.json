@@ -4,8 +4,8 @@
   "resources": [
     {
       "@type": "TextResource",
-      "@id": "9D43",
-      "@include": "../../base/9D43.txt"
+      "@id": "18A4",
+      "@include": "../../base/18A4.txt"
     }
   ],
   "annotationsets": [
