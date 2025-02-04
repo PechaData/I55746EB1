@@ -7,7 +7,7 @@
   "author": {
     "en": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤"
   },
-  "imported": "2025-02-04T18:20:02.120698",
+  "imported": "2025-02-04T18:25:44.773993",
   "source": "https://exampl.com",
   "toolkit_version": "0.0.1",
   "parser": "GoogleDocTranslationParser",
@@ -27,11 +27,11 @@
   },
   "bases": [
     {
-      "18A4": {
+      "F3E7": {
         "source_metadata": {
           "total_segments": 0
         },
-        "base_file": "18A4.txt"
+        "base_file": "F3E7.txt"
       }
     }
   ],
