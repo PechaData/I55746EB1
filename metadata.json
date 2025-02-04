@@ -1,0 +1,44 @@
+{
+  "id": "I55746EB1",
+  "title": {
+    "en": "sdasd",
+    "bo": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤"
+  },
+  "author": {
+    "en": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤"
+  },
+  "imported": "2025-02-04T17:05:25.717143",
+  "source": "https://exampl.com",
+  "toolkit_version": "0.0.1",
+  "parser": "GoogleDocTranslationParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "presentation": {
+      "en": "དབུ་མ་འཇུག་པ་ལས་སེམས་བསྐྱེད་དྲུག་པ། ཤོ་ལོ་ཀ ༡ ནས་ ༦༤"
+    },
+    "usage_title": {
+      "en": "ཚོད་ལྟ་དཔེ་དེབ་"
+    },
+    "long_title": {
+      "en": "ཚོད་ལྟ་དཔེ་དེབ་"
+    },
+    "document_id": "1JkKyT0oDqcxvWoo_7B-m6CQx_aIgyAIUig8xpThsk0A"
+  },
+  "bases": [
+    {
+      "9D43": {
+        "source_metadata": {
+          "total_segments": 0
+        },
+        "base_file": "9D43.txt"
+      }
+    }
+  ],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
